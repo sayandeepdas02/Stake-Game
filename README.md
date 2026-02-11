@@ -1,4 +1,4 @@
-# 🎯 Plinko (Stake Game)
+# Plinko
 
 Plinko is a physics-based **stake game** inspired by the classic Plinko board, where a ball drops through multiple obstacles and lands in a final block determining the result.
 
